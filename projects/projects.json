@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Barbershop",
+    "desc": "Salon de coiffure pour homme.",
+    "image": "Barbershop",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Barbershop/"
+    }
+  },
+  {
+    "name": "Avocat",
+    "desc": "Page simple de site pour avocat",
+    "image": "avocat",
+    "category": "web",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Avocat/"
+    }
+  },
+  {
+    "name": "Bugtik",
+    "image": "bugtik",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": " https://haouaenikoye.github.io/BugtiqueMai/"
+    }
+  },
+  {
+    "name": "Billetterie",
+    "desc": "Site d'achat de billet de bus",
+    "image": "billetrie",
+    "category": "html",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Billetterie/"
+    }
+  },
+  {
+    "name": "Elite Media",
+    "desc": "Site de photographie",
+    "image": "elitemedia",
+    "category": "js",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": " https://haouaenikoye.github.io/Magagi/"
+    }
+  },
+  {
+    "name": "Farmy",
+    "desc": "Vente de denré alimentaire et d'échange",
+    "image": "farmy",
+    "category": "html",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Farmy/"
+    }
+  },
+  {
+    "name": "Ferme",
+    "desc": "Laitier",
+    "image": "ferme",
+    "category": "js",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Ferme/"
+    }
+  },
+  {
+    "name": "Mozaik Magic",
+    "desc": "photographie.",
+    "image": "mozaic",
+    "category": "js",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Mozaik/"
+    }
+  },
+  {
+    "name": "Shopping cart",
+    "desc": "Salon de beauté Femme.",
+    "image": "shoppin cart",
+    "category": "js",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/Shopping-Cart/"
+    }
+  },
+
+  {
+    "name": "RgB",
+    "desc": " Jeux de couleur.",
+    "image": "rgb",
+    "category": "html",
+    "links": {
+      "view": "https://www.linkedin.com/in/hainikoye",
+      "code": "https://haouaenikoye.github.io/RGB-master/"
+    }
+  },
+  {
+    "name": "Calculatrice de dépenses",
+    "desc": "Système de dépense.",
+    "image": "depense",
+    "category": "Html",
+    "links": {
+      "code": "https://haouaenikoye.github.io/Calculatrice/"
+    }
+  }
+  
+]
