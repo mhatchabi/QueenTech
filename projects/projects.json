@@ -2,7 +2,7 @@
   {
     "name": "Barbershop",
     "desc": "Salon de coiffure pour homme.",
-    "image": "barbershop",
+    "image": "BARBERSHOP",
     "category": "web",
     "links": {
       "view": "https://www.linkedin.com/in/hainikoye",
@@ -70,7 +70,7 @@
   {
     "name": "Mozaik Magic",
     "desc": "photographie.",
-    "image": "mozaic",
+    "image": "MOZAIC",
     "category": "js",
     "links": {
       "view": "https://www.linkedin.com/in/hainikoye",
