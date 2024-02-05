@@ -1,12 +1,35 @@
 [
+   {
+    "name": "HaouaGlams",
+    "desc": "Boutique en Ligne.",
+    "image": "HaouaGlams",
+    "category": "js",
+    "links": {
+      "view": "https://haouaglams.onrender.com",
+      "code": "https://haouaglams.onrender.com"
+    }
+  },
+    {
+    "name": "BlockChain",
+    "desc": "Un endroit pour tous ceux qui veulent simplement acheter et vendre des Cryptomonnaies.
+      Déposez des fonds en utilisant votre carte Visa/MasterCard ou par virement bancaire.
+      L'achat/vente instantané de Cryptomonnaies au juste prix est garanti.
+      Rien de plus. Rejoignez plus de 700 000 utilisateurs du monde entier satisfaits de nos services.",
+    "image": "BlockChain",
+    "category": "js",
+    "links": {
+      "view": "https://blockchain-n7u5.onrender.com",
+      "code": "https://blockchain-n7u5.onrender.com"
+    }
+  },
   {
     "name": "Barbershop",
     "desc": "Salon de coiffure pour homme.",
     "image": "BARBERSHOP",
     "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Barbershop/"
+      "view": "https://barbershop-twyh.onrender.com",
+      "code": "https://barbershop-twyh.onrender.com"
     }
   },
   {
@@ -15,16 +38,16 @@
     "image": "avocat",
     "category": "web",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Avocat/"
+      "view": "https://avocat-tjvs.onrender.com",
+      "code": "https://avocat-tjvs.onrender.com"
     }
   },
   {
-    "name": "Bugtik",
-    "image": "bugtik",
+    "name": "CAF UAM",
+    "image": "caf uam",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": " https://haouaenikoye.github.io/BugtiqueMai/"
+      "view": "https://caf-61if.onrender.com",
+      "code": " https://caf-61if.onrender.com"
     }
   },
   {
@@ -33,8 +56,8 @@
     "image": "billetrie",
     "category": "html",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Billetterie/"
+      "view": "https://billetterie.onrender.com",
+      "code": "https://billetterie.onrender.com"
     }
   },
   {
@@ -43,8 +66,8 @@
     "image": "elitemedia",
     "category": "js",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": " https://haouaenikoye.github.io/Magagi/"
+      "view": "https://magagi.onrender.com",
+      "code": " https://magagi.onrender.com"
     }
   },
   {
@@ -53,8 +76,8 @@
     "image": "farmy",
     "category": "html",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Farmy/"
+      "view": "https://farmy.onrender.com",
+      "code": "https://farmy.onrender.com"
     }
   },
   {
@@ -63,28 +86,19 @@
     "image": "ferme",
     "category": "js",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Ferme/"
+      "view": "https://ferme-eu7s.onrender.com",
+      "code": "https://ferme-eu7s.onrender.com"
     }
   },
-  {
-    "name": "Mozaik Magic",
-    "desc": "photographie.",
-    "image": "MOZAIC",
-    "category": "js",
-    "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Mozaik/"
-    }
-  },
+ 
   {
     "name": "Shopping cart",
     "desc": "Salon de beauté Femme.",
     "image": "shoppin cart",
     "category": "js",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/Shopping-Cart/"
+      "view": "https://shpping-cart.onrender.com",
+      "code": "https://shpping-cart.onrender.com"
     }
   },
 
@@ -94,8 +108,8 @@
     "image": "rgb",
     "category": "html",
     "links": {
-      "view": "https://www.linkedin.com/in/hainikoye",
-      "code": "https://haouaenikoye.github.io/RGB-master/"
+      "view": "https://rgb-e5rh.onrender.com",
+      "code": "https://rgb-e5rh.onrender.com"
     }
   },
   {
@@ -104,7 +118,7 @@
     "image": "depense",
     "category": "Html",
     "links": {
-      "code": "https://haouaenikoye.github.io/Calculatrice/"
+      "code": "https://calculatrice-3okg.onrender.com"
     }
   }
   
