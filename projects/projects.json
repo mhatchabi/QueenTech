@@ -1,122 +1,64 @@
-[
-   {
-    "name": "HaouaGlams",
-    "desc": "Boutique en Ligne.",
-    "image": "assets/images/Frame 6.png",
-    "category": "js",
-    "links": {
-      "view": "https://haouaglams.onrender.com",
-      "code": "https://haouaglams.onrender.com/"
-    }
-  },
+[ 
+    
+    
     {
-    "name": "BlockChain",
-    "desc": "Un endroit pour tous ceux qui veulent simplement acheter et vendre des Cryptomonnaies",
-    "image": "BlockChain",
-    "category": "js",
-    "links": {
-      "view": "https://blockchain-n7u5.onrender.com",
-      "code": "https://blockchain-n7u5.onrender.com"
+        "id": 1,
+        "name": "E-Mail Classification ML Model",
+        "desc": "Classify emails as spam or not-spam on the basis of the message.[Naive Bayes, Numpy, Pandas and Sklearn].",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "links": {
+            "view": "https://github.com/SauravMukherjee44/Email-Classification-Model/blob/main/Model/email_classification.ipynb",
+            "code": "https://github.com/SauravMukherjee44/Email-Classification-Model"
+        }
+    },
+    {
+        "id": 2,
+        "name": "COVID-19 Outbreak Analysis",
+        "desc": "We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933140/covidml_pdaxpu.png",
+        "links": {
+            "view": "https://github.com/SauravMukherjee44/COVID-19-Outbreak-Analysis-Using-Data-Science/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
+            "code": "https://github.com/SauravMukherjee44/COVID-19-Outbreak-Analysis-Using-Data-Science"
+        }
+    },
+    {
+        "id": 3,
+        "name": "TITANIC-SURVIVOUR-ANALYSIS",
+        "desc": "In this project we are going to build an artificial intelligence neural network to check whether they survived the titanic incident or not",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933129/Titanic_nuxdgz.png",
+        "links": {
+            "view": "https://github.com/SauravMukherjee44/TITANIC-SURVIVOUR-ANALYSIS/blob/main/Titanic_Survivors_Analysis_By_Saurav_.ipynb",
+            "code": "https://github.com/SauravMukherjee44/TITANIC-SURVIVOUR-ANALYSIS"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532035/portfolio-Saurav_pbvufi.png",
+        "links": {
+            "view": "https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/",
+            "code": "https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee"
+        }
+    },
+    
+    {
+        "id": 5,
+        "name": "College Library Website",
+        "desc": "This is a College Library Website in which you can keep a record of all the books you have issued.© 2021 Saurav Mukherjee",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1631398033/44_veugbf.png",
+        "links": {
+            "view": "https://sauravmukherjee44.github.io/Aec-Library-Website/",
+            "code": "https://github.com/SauravMukherjee44/Aec-Library-Website"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Netflix Clone | React-App",
+        "desc": "Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup.",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
+        "links": {
+        "view": "https://netflix-clone-saurav.herokuapp.com/",
+        "code": "https://github.com/SauravMukherjee44/Netflix-Clone-PC-App"
+        }
     }
-  },
-  {
-    "name": "Barbershop",
-    "desc": "Salon de coiffure pour homme.",
-    "image": "BARBERSHOP",
-    "category": "web",
-    "links": {
-      "view": "https://barbershop-twyh.onrender.com",
-      "code": "https://barbershop-twyh.onrender.com"
-    }
-  },
-  {
-    "name": "Avocat",
-    "desc": "Page simple de site pour avocat",
-    "image": "avocat",
-    "category": "web",
-    "links": {
-      "view": "https://avocat-tjvs.onrender.com",
-      "code": "https://avocat-tjvs.onrender.com"
-    }
-  },
-  {
-    "name": "CAF UAM",
-    "image": "caf uam",
-    "links": {
-      "view": "https://caf-61if.onrender.com",
-      "code": " https://caf-61if.onrender.com"
-    }
-  },
-  {
-    "name": "Billetterie",
-    "desc": "Site d'achat de billet de bus",
-    "image": "billetrie",
-    "category": "html",
-    "links": {
-      "view": "https://billetterie.onrender.com",
-      "code": "https://billetterie.onrender.com"
-    }
-  },
-  {
-    "name": "Elite Media",
-    "desc": "Site de photographie",
-    "image": "elitemedia",
-    "category": "js",
-    "links": {
-      "view": "https://magagi.onrender.com",
-      "code": " https://magagi.onrender.com"
-    }
-  },
-  {
-    "name": "Farmy",
-    "desc": "Vente de denré alimentaire et d'échange",
-    "image": "farmy",
-    "category": "html",
-    "links": {
-      "view": "https://farmy.onrender.com",
-      "code": "https://farmy.onrender.com"
-    }
-  },
-  {
-    "name": "Ferme",
-    "desc": "Laitier",
-    "image": "ferme",
-    "category": "js",
-    "links": {
-      "view": "https://ferme-eu7s.onrender.com",
-      "code": "https://ferme-eu7s.onrender.com"
-    }
-  },
- 
-  {
-    "name": "Shopping cart",
-    "desc": "Salon de beauté Femme.",
-    "image": "shoppin cart",
-    "category": "js",
-    "links": {
-      "view": "https://shpping-cart.onrender.com",
-      "code": "https://shpping-cart.onrender.com"
-    }
-  },
-
-  {
-    "name": "RgB",
-    "desc": " Jeux de couleur.",
-    "image": "rgb",
-    "category": "html",
-    "links": {
-      "view": "https://rgb-e5rh.onrender.com",
-      "code": "https://rgb-e5rh.onrender.com"
-    }
-  },
-  {
-    "name": "Calculatrice de dépenses",
-    "desc": "Système de dépense.",
-    "image": "depense",
-    "category": "Html",
-    "links": {
-      "code": "https://calculatrice-3okg.onrender.com"
-    }
-  }
-  
-]
