@@ -11,10 +11,7 @@
   },
     {
     "name": "BlockChain",
-    "desc": "Un endroit pour tous ceux qui veulent simplement acheter et vendre des Cryptomonnaies.
-      Déposez des fonds en utilisant votre carte Visa/MasterCard ou par virement bancaire.
-      L'achat/vente instantané de Cryptomonnaies au juste prix est garanti.
-      Rien de plus. Rejoignez plus de 700 000 utilisateurs du monde entier satisfaits de nos services.",
+    "desc": "Un endroit pour tous ceux qui veulent simplement acheter et vendre des Cryptomonnaies",
     "image": "BlockChain",
     "category": "js",
     "links": {
