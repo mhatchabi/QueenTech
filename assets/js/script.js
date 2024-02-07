@@ -60,18 +60,18 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Idrissa Enikoye Haoua";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            $("#favicon").attr("href", "assets/images/Frame 2.png");
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
+            $("#favicon").attr("href", "assets/images/Frame 2.png");
         }
     });
 
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend dev", "design", "flutter dev", "android dev", "ux dev"],
+    strings: ["UI-UX", "FIGMA", "FLUTTER", "REACT", "WORDPRESS", "BOOTSTRAP", "JS"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
