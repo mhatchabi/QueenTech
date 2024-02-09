@@ -375,33 +375,37 @@
       <div class="image-box">
         <img draggable="false" src="./assets/images/contact1.png" alt="">
       </div>
-    <form 
-    action="https://formspree.io/f/myyangyb"
-    method="POST">
-      
+   <form id="form">
       <div class="form-group">
         <div class="field">
-          <input type="text" name="name" placeholder="Nom" required>
+          <input type="text" name="from_name" placeholder="Nom" id="from_name">
           <i class='fas fa-user'></i>
         </div>
         <div class="field">
-          <input type="text" name="email" placeholder="Email" required>
+          <input type="text" name="email_id" placeholder="Email" id="email_id">
           <i class='fas fa-envelope'></i>
         </div>
         <div class="field">
-          <input type="text" name="phone" placeholder="Téléphone">
+          <input type="text" name="tel_id" placeholder="Telephone" id="tel_id">
           <i class='fas fa-phone-alt'></i>
         </div>
         <div class="message">
-        <textarea placeholder="Message" name="message" required></textarea>
+        <textarea placeholder="Message"  id="message"  name="message" required></textarea>
         <i class="fas fa-comment-dots"></i>
         </div>
         </div>
       <div class="button-area">
-        <button type="submit">
+        <button type="submit" id="button" >
           Soumettre <i class="fa fa-paper-plane"></i></button>
+       
       </div>
     </form>
+    <script type="text/javascript"
+  src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+
+<script type="text/javascript">
+  emailjs.init('Qua72f6NZafoWXDN1')
+</script>
   </div>
   </div>
 </section>
